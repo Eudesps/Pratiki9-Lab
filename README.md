@@ -4,9 +4,6 @@ Um aplicativo de quiz interativo desenvolvido com React e Firebase, que permite 
 
 Este projeto foi idealizado como uma **ferramenta de apoio à aprendizagem**, podendo ser utilizado em ambientes educacionais, como salas de aula, para tornar o processo de ensino mais **dinâmico, motivador e gamificado**. O feedback imediato após cada questão e a visualização da pontuação e do ranking incentivam a participação ativa dos alunos, promovendo **engajamento e aprendizado contínuo**.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R81J0GKY)
----
-
 ## ✨ Funcionalidades
 
 ### 🔐 Autenticação de Usuário
