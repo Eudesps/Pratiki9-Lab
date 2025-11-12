@@ -4,7 +4,7 @@ import './Inicio.css';
 export default function Inicio({ onStart }) {
   return (
     <div className="intro-box001">
-      <h1 className="quiz-title">Quiz App - Breves instruções</h1>
+      <h1 className="quiz-title">Quiz App Pratiki9 Lab - Breves instruções</h1>
 
       <div className="intro-description">
         <p>
