@@ -1,4 +1,4 @@
-# 🎓 Projeto Quiz Educacional
+# 🎓 Projeto Pratiki9 Lab
 
 Um aplicativo de quiz interativo desenvolvido com React e Firebase, que permite aos usuários testarem seus conhecimentos, visualizarem seu desempenho em um ranking e acompanharem seu histórico de jogadas.
 
