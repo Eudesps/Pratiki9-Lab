@@ -42,3 +42,6 @@ Este projeto foi idealizado como uma **ferramenta de apoio à aprendizagem**, po
 
 ### Telas
 <img width="3234" height="1596" alt="TELAS-APP-QUIZ001" src="https://github.com/user-attachments/assets/a82bc649-966f-486f-9fbc-f2f35f409996" />
+
+<img width="500" height="500" alt="Pratiki9 Lab" src="https://github.com/user-attachments/assets/7a050c37-4058-41c3-8d3a-a178eb129819" />
+
